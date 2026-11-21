@@ -1,4 +1,4 @@
-# SO-101 Robot Studio (real_test)
+# SO-101 Robot Studio 
 
 Run everything from this folder, e.g. `python main.py`.
 
