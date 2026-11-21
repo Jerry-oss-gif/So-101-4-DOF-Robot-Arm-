@@ -28,7 +28,7 @@ It has a window (GUI) with a live 3D view of the arm. You can also test everythi
 ## Install
 
 ```bash
-git clone /Jerry-oss-gif/So-101-4-DOF-Robot-Arm-
+git clone Jerry-oss-gif/So-101-4-DOF-Robot-Arm-
 cd YOUR-REPO
 pip install -r requirements.txt
 ```
