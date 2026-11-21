@@ -1,4 +1,4 @@
-[README (1).md](https://github.com/user-attachments/files/35216768/README.1.md)
+(https://github.com/user-attachments/files/35216768/README.1.md)
 # SO-101 Robot Studio
 
 A simple Python program to control a 4-joint **SO-101 robot arm** with **Feetech STS3215** servos.
