@@ -1,0 +1,26 @@
+[
+  {
+    "servo_id": 1,
+    "name": "shoulder_pan",
+    "sign": -1,
+    "zero_deg": -26.89
+  },
+  {
+    "servo_id": 2,
+    "name": "shoulder_lift",
+    "sign": 1,
+    "zero_deg": 105.0
+  },
+  {
+    "servo_id": 3,
+    "name": "elbow_flex",
+    "sign": 1,
+    "zero_deg": -100.0
+  },
+  {
+    "servo_id": 4,
+    "name": "wrist_flex",
+    "sign": 1,
+    "zero_deg": -33.0
+  }
+]
